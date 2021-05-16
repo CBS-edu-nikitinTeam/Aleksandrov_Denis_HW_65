@@ -9,5 +9,5 @@ namespace _03_Identity.Models
         {
             Database.EnsureCreated();
         }
-    }
+    } 
 }
